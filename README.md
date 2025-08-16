@@ -32,6 +32,16 @@ Um aplicativo moderno para **organizar suas tarefas**, desenvolvido em **HTML, C
 
 ---
 
+## 🎓 Aprendizados
+
+Durante este projeto, eu aprendi a:  
+
+- Lidar com **códigos HTML, CSS e JavaScript** de forma integrada  
+- Entender toda a **estrutura por trás de um projeto web**  
+- Organizar arquivos e pastas para manter o projeto funcional e escalável  
+
+---
+
 ## 👨‍💻 Autor
 
 **Victor Hugo**  
